@@ -9,4 +9,6 @@ el proyecto tambien cuenta con navegaciones actualizadas, tambien se le añadio 
 PRINCIPAL
 ![Screenshot_2023-07-26-21-37-53-077_com example cupcakes](https://github.com/Sebas333231/CupCakes/assets/110652225/2f237faa-361b-40ee-8a14-e2a61d2f61c1)
 
+SABORES
+![Screenshot_2023-07-26-21-37-59-933_com example cupcakes](https://github.com/Sebas333231/CupCakes/assets/110652225/e083c382-83c5-4490-bfc3-f53d6418e991)
 
