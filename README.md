@@ -12,3 +12,6 @@ PRINCIPAL
 SABORES
 ![Screenshot_2023-07-26-21-37-59-933_com example cupcakes](https://github.com/Sebas333231/CupCakes/assets/110652225/e083c382-83c5-4490-bfc3-f53d6418e991)
 
+FECHA
+![Screenshot_2023-07-26-21-38-25-738_com example cupcakes](https://github.com/Sebas333231/CupCakes/assets/110652225/603d5350-9dc7-47df-89a6-6d05dff02e81)
+
