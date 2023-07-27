@@ -3,7 +3,7 @@ escogiendo los cupcakes que gustas comprar, sabor, el dia que los quieres y al f
 una pequeña factura la cual se puede enviar via WhatsApp
 
 Este proyecto esta hecho en la version 1.8.10 de jetpack compose
-el proyecto tambien cuenta con navegaciones actualizadas, tambien se le añadio fechas y horario actuales a la compra que se realiza
+el proyecto tambien cuenta con navegaciones actualizadas, tambien se le añadio fechas y horario actuales a la compra que se realiza, tambien se le agrega un pequeño monto a la factura si la compra es para el mismo dia, pero si no el precio sera normal
 
 
 PRINCIPAL
