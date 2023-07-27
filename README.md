@@ -15,3 +15,5 @@ SABORES
 FECHA
 ![Screenshot_2023-07-26-21-38-25-738_com example cupcakes](https://github.com/Sebas333231/CupCakes/assets/110652225/603d5350-9dc7-47df-89a6-6d05dff02e81)
 
+FACTURA
+![Screenshot_2023-07-26-21-38-30-176_com example cupcakes](https://github.com/Sebas333231/CupCakes/assets/110652225/f9c3416d-f409-46bb-8489-b91fccee115d)
